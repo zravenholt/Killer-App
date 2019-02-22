@@ -1,6 +1,6 @@
 {
-  "welcome_message" : "Killer App is the hotest new thing on the marrket",
-  "error_message" : "Oops, I dont think you can do that",
-  "celebration_message" : "Alright! You did the thing!!!",
-  "login_message" : ""
+  "welcome_message" : "Killer App is the hottest new thing on the market.",
+  "error_message" : "Oops, I don't think you can do that.",
+  "celebration_message" : "Alright, you did the thing!",
+  "login_message" : "Welcome to our Killer App!"
 }
